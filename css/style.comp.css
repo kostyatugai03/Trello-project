@@ -40,6 +40,9 @@ html {
   @media only screen and (max-width: 68.75rem) {
     html {
       font-size: 50%; } }
+  @media only screen and (max-width: 26.875rem) {
+    html {
+      font-size: 40%; } }
 
 *,
 *::after,
